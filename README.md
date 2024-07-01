@@ -1,8 +1,8 @@
 # kalvium_task
-Overview
+##Overview
 This repository contains the work related to scraping information from the recently concluded Lok Sabha election from the Election Commission of India's results website and deriving key insights from the data.
 
-Files in the Repository
+##Files in the Repository
 scrape_data.py: Python script for scraping election data from the Election Commission of India's results website.
 report.pdf: A PDF document containing the report with 10 key insights derived from the scraped data.
 excel_results_arunachalam.xlsx: An Excel file containing the election results data for Arunachalam.
